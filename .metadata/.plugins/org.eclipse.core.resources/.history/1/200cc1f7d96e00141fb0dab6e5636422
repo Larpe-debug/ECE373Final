@@ -1,0 +1,10 @@
+package police.department.gui;
+
+import javax.swing.*;
+
+public class PoliceGUI extends JFrame {
+
+	public PoliceGUI(){
+		super();
+	}
+}

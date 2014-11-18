@@ -1,0 +1,5 @@
+package police.department.cases;
+
+public class Person {
+
+}
