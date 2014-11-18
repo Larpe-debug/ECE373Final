@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Main.java&apos; to &apos;ECEFinalProject/src/police.department.gui&apos;&#x0D;&#x0A;- Original project: &apos;ECEFinalProject&apos;&#x0D;&#x0A;- Destination element: &apos;ECEFinalProject/src/police.department.gui&apos;&#x0D;&#x0A;- Original element: &apos;police.department.cases.Main.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;police.department.gui" element1="/src&lt;police.department.cases{Main.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1416280722250" units="1" version="1.0"/>
+</session>

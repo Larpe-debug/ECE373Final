@@ -1,0 +1,9 @@
+package police.department.users;
+
+public abstract class Officer {
+
+	public Officer() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
